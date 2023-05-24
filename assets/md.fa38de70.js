@@ -1,0 +1,1 @@
+import{o as e,c as a,w as t,V as c,a as o}from"./index.5991bf72.js";const n={__name:"md",setup(r){return(s,_)=>(e(),a(c,null,{default:t(()=>[o(" md\u65BD\u5DE5\u4E2D ")]),_:1}))}};export{n as default};

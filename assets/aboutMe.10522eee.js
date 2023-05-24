@@ -1,0 +1,1 @@
+import{o as e,c as a,w as t,V as o,a as c}from"./index.5991bf72.js";const u={__name:"aboutMe",setup(r){return(s,_)=>(e(),a(o,null,{default:t(()=>[c(" aboutMe \u65BD\u5DE5\u4E2D ")]),_:1}))}};export{u as default};
