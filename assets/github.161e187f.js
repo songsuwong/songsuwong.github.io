@@ -1,0 +1,1 @@
+import{o as t,c as e,w as a,V as c,a as o}from"./index.ae19f39a.js";const u={__name:"github",setup(r){return(s,_)=>(t(),e(c,null,{default:a(()=>[o(" github\u65BD\u5DE5\u4E2D ")]),_:1}))}};export{u as default};

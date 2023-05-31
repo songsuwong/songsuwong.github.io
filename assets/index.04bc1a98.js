@@ -1,0 +1,1 @@
+import{o as e,c as a,w as t,V as c,a as o}from"./index.ae19f39a.js";const p={__name:"index",setup(r){return(s,_)=>(e(),a(c,null,{default:t(()=>[o(" \u6211\u662F\u9996\u9801 ")]),_:1}))}};export{p as default};
